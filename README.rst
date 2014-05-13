@@ -1,3 +1,8 @@
+Archived Repo
+=============
+
+**This fork is an archived snapshot of the Tornado project. Please do not file issues or pull-requests. The primary on-going source of the project may now be found at https://github.com/tornadoweb/tornado**
+
 Tornado Web Server
 ==================
 
